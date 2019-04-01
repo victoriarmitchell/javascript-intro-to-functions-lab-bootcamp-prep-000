@@ -1,3 +1,4 @@
+var string = 'HELLO'
 var uppercase = "HELLO!"
  
 uppercase.toUpperCase() === uppercase // true
